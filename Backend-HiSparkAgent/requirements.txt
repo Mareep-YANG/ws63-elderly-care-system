@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-dotenv
+pydantic-settings
+requests
+websockets
+openai>=1.3.0
+paho-mqtt>=1.6.1
